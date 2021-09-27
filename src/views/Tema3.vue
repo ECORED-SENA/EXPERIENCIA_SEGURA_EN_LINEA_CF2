@@ -41,7 +41,7 @@
     Separador
 
     #t3-2.titulo-segundo
-      h2 3.2 Tipología, sanciones y penalizaciones de los delitos informáticos.
+      h2 3.2 Tipología, sanciones y penalizaciones de los delitos informáticos
 
     p.mb-5 Para hablar de la tipología y tipos de sanciones que actualmente están vigentes en Colombia, se debe tomar como referente la Ley 1273 de 2009, la cual está compuesta por dos capítulos. A continuación, se desglosan cada uno de ellos.
 
@@ -263,26 +263,6 @@
               img.d-none.d-lg-block(src='@/assets/curso/t3-10.svg' style="margin-bottom: -54px")
             .col-lg-9
               p.mb-0 En conclusión, el juez debe determinar cuál fue de mayor agravación e implantarle a ese la pena aumentada a las tres cuartas (3/4) partes y al otro si aumentarle la mitad de la pena, según la importancia de conducta punible que tuvo. 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 </template>
 

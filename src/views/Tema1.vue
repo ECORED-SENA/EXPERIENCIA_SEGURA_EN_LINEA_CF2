@@ -11,7 +11,7 @@
     p.mb-5 Se denomina herramientas de protección a todas las herramientas que nacen para cubrir las necesidades de seguridad, digital en este caso; son aquellas que presentan un alivio en el uso de los contenidos digitales y se caracterizan por ser de carácter pago o gratuito, según se establezca por parte de cada fabricante.
 
     #t1-1.titulo-segundo
-      h2 1.1  Clasificación y características de las herramientas de protección
+      h2 1.1 Clasificación y características de las herramientas de protección
 
     .pb-5
 
