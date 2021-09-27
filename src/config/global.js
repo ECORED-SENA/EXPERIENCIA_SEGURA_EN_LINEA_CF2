@@ -1,11 +1,10 @@
 export default {
   global: {
-    componenteFormativo:
-      'Componente Formativo con un nombre extremadamente largo y extenso',
+    componenteFormativo: 'Herramientas y estrategias de protección digital',
     descripcionCurso:
-      'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean convallis vestibulum quam bibendum varius.<br/><br/>Quisque pretium at nulla sit amet placerat. Vestibulum consequat suscipit accumsan. Proin pharetra congue enim et tempus. Sed sodales dui volutpat, placerat tellus accumsan, semper est. Phasellus nec lorem elementum, mattis quam eget, vestibulum nibh. Sed.',
-    imagenBannerPrincipal: require('@/assets/curso/banner-princiapal.svg'),
-    fondoBannerPrincipal: require('@/assets/curso/fondo-banner-principal.png'),
+      'Este componente formativo presenta las herramientas y estrategias a utilizar en el caso de protección digital, con el fin de evitar amenaza y riesgo que afecte la experiencia al momento de utilizar recursos digitales.',
+    imagenBannerPrincipal: require('@/assets/curso/inicio.png'),
+    fondoBannerPrincipal: require('@/assets/curso/fondo.svg'),
   },
   menuPrincipal: {
     menu: [
