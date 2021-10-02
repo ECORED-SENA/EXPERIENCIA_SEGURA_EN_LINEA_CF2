@@ -6,7 +6,7 @@
     .titulo-principal
       .titulo-principal__numero
         span 2
-      h1 Herramientas y estrategias de protección
+      h1 Huella digital
 
     .pb-5.pt-4
 
@@ -14,7 +14,7 @@
       img.pregunta(src='@/assets/curso/t1-02.svg')
       .row.align-items-center.justify-content-center
         .col-md-9.mb-4.mb-md-0
-          h3.mb-0 ¿Sabía que las herramientas y estrategias de protección son tan variables y distintas como las diferentes herramientas digitales y tecnológicas que se pueden usar?
+          h3.mb-0 ¿Sabía que la huella digital puede ser vista desde dos frentes?
         .col-6.col-md-3
           img.overflow-img(src='@/assets/curso/t2-01.svg')
 
@@ -68,11 +68,17 @@
     .tarjeta.color-secundario--claro-2.p-5
       img.huellas.mb-4.d-none.d-lg-block(src='@/assets/curso/t2-huellas.svg')
       img.huellas.mb-4.d-lg-none(src='@/assets/curso/t2-03.svg')
-      h4.mb-0(style="color: #004080") El nombre.
-        br
-        | La identificación.
-        br
-        | La fecha de nacimiento, entre otros.    
+
+      ul.lista-ul.mb-0
+        li 
+          i.lista-ul__vineta
+          h4.mb-0(style="color: #004080") El nombre.
+        li 
+          i.lista-ul__vineta
+          h4.mb-0(style="color: #004080") La identificación.
+        li 
+          i.lista-ul__vineta
+          h4.mb-0(style="color: #004080") La fecha de nacimiento, entre otros. 
 
     Separador
 
@@ -150,7 +156,7 @@
           i.fas.fa-check
           | Consumo de plataformas de entretenimiento, entre otras. 
  
-    p Esta es información que forma parte del historial en línea de una persona y, potencialmente, puede ser vista, compartida o comentada por otras personas o incluso ser almacenada en una base de datos, por lo que es importante tener presente que, de una forma u otra, todo lo que se hace queda grabado.
+    p Esta es información que forma parte del historial en línea de una persona y, potencialmente, puede ser vista, compartida o comentada por otras personas o incluso ser almacenada en una base de datos, por lo que es importante tener presente que, de una forma u otra, <b>todo lo que se hace queda grabado</b>.
 
     p.mb-5
       b De acuerdo con lo anterior:
@@ -185,7 +191,7 @@
     #t2-2.titulo-segundo
       h2 2.2 Identidad digital
 
-    p Como se ha mencionado, la huella digital permite con el tiempo y de acuerdo con las acciones, construir la identidad digital, que se trata de un “yo” en la red, que determina los datos que cada persona va dejando en la red a partir del consumo de productos y servicios, publicaciones. La identidad digital determina qué ven los demás usuarios en términos de uso de recursos tecnológicos en los que se reconocen los perfiles aunque se puede dar que en muchos casos la identidad digital obedezca a un seudónimo.
+    p Como se ha mencionado, la huella digital permite con el tiempo y de acuerdo con las acciones, construir la <b>identidad digital</b>, que se trata de un <b>“yo”</b> en la red, que determina los datos que cada persona va dejando en la red a partir del consumo de productos y servicios, publicaciones. La identidad digital determina qué ven los demás usuarios en términos de uso de recursos tecnológicos en los que se reconocen los perfiles aunque se puede dar que en muchos casos la identidad digital obedezca a un seudónimo.
 
     p.mb-5
       b Algunas de las amenazas que afectan la identidad digital, como parte de la utilización de internet y los recursos tecnológicos, son:

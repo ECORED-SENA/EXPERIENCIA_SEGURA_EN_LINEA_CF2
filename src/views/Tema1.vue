@@ -99,7 +99,7 @@
                   img(src='@/assets/curso/t1-09.svg')
             
               .tarjeta.tarjeta--blanca.p-4
-                p.mb-0 Habilitar un firewall del sistema operativo que limite la ejecución de algunas aplicaciones o servicios no necesarios o desconocidos.
+                p.mb-0 Habilitar un <em>firewall</em> del sistema operativo que limite la ejecución de algunas aplicaciones o servicios no necesarios o desconocidos.
 
 
 
@@ -180,7 +180,7 @@
     .row.justify-content-around.mb-5
       .col-lg-8.col-xl-6.mb-4.mb-md-0
         AcordionA(tipo="a" clase-tarjeta="tarjeta color-acento-contenido")
-          div(titulo="Consumo de recursos hardware y software")
+          div(titulo="Consumo de recursos <em>hardware y software</em>")
             p.mb-0 Generalmente, los antivirus de pago o comerciales tienen interfaces más sencillas que consumen menos recursos que los gratuitos.
           div(titulo="Soporte técnico")
             p.mb-0 El soporte por parte del fabricante de un antivirus gratuito es más limitado en cuanto a actualizaciones, definiciones de nuevos virus entre los dos modelos.
@@ -193,7 +193,7 @@
           .col-xl-8
             img(src='@/assets/curso/t1-17.svg')
 
-    p.mb-5 A continuación, se enumeran algunas de las soluciones de antivirus gratuitos más conocidas o utilizadas y sus páginas web oficiales desde donde se pueden descargar. Por favor, valide el que se adapte a su necesidad e instale, no se recomienda instalar más de uno por dispositivo.
+    p.mb-5 A continuación, se enumeran algunas de las soluciones de antivirus gratuitos más conocidas o utilizadas y sus páginas web oficiales <b>desde donde se pueden descargar</b>. Por favor, valide el que se adapte a su necesidad e instale, <b>no se recomienda instalar más de uno</b> por dispositivo.
 
     .row.mb-5
       .col-3
@@ -226,7 +226,7 @@
           h2 1.3 Gestión de contraseñas
         p Esta es una de las mejores prácticas a implementar como usuarios regulares de herramientas tecnológicas, donde se requiere para el acceso o uso ingresar con una cuenta de usuario y una contraseña.
 
-        p Una mala práctica en este sentido puede comprometer la privacidad, lo que deriva en vulnerabilidad por parte de un tercero que puede editar, borrar o manipular la información personal de cada persona. Para el caso de los correos electrónicos, datos bancarios y redes sociales, el uso de estos elementos conocidos como password es fundamental y se debe tener cuidado extremo a la hora de su generación y uso. 
+        p Una mala práctica en este sentido puede comprometer la privacidad, lo que deriva en vulnerabilidad por parte de un tercero que puede editar, borrar o manipular la información personal de cada persona. Para el caso de los correos electrónicos, datos bancarios y redes sociales, el uso de estos elementos conocidos como <em>password</em> es fundamental y se debe tener cuidado extremo a la hora de su generación y uso. 
         
         p.mb-0
           b continuación, se amplía en el siguiente video, el concepto de contraseña.
@@ -293,7 +293,7 @@
             td 
               a(href="https://keepass.info/" target="_blank") https://keepass.info/
           tr
-            td Password: es una muy buena alternativa de uso comercial, quizá la más recomendada.
+            td 1Password: es una muy buena alternativa de uso comercial, quizá la más recomendada.
             td 
               a(href="https://1password.com/" target="_blank") https://1password.com/
           tr
@@ -340,7 +340,7 @@
         .tarjeta.color-gradient-b.d-flex.px-4.py-5.mb-4
           .icono-tarjeta.me-4
             img(src='@/assets/curso/flecha-hacia-abajo.svg')
-          p.mb-0 Si la descarga se va a hacer a partir de un link recomendado por alguna persona o página, se deben de validar los comentarios de otros usuarios que hallan hecho la descarga e identificar las credenciales y reputación de quien publica algún comentario, ya que puede haber comentarios falsos dispuestos solo para generar una falsa confianza en la persona que va a descargar.
+          p.mb-0 Si la descarga se va a hacer a partir de un <em>link</em> recomendado por alguna persona o página, se deben de validar los comentarios de otros usuarios que hallan hecho la descarga e identificar las credenciales y reputación de quien publica algún comentario, ya que puede haber comentarios falsos dispuestos solo para generar una falsa confianza en la persona que va a descargar.
 
         .tarjeta.color-gradient-b.d-flex.px-4.py-5.mb-4
           .icono-tarjeta.me-4
@@ -350,24 +350,24 @@
         .tarjeta.color-gradient-b.d-flex.px-4.py-5.mb-4
           .icono-tarjeta.me-4
             img(src='@/assets/curso/flecha-hacia-abajo.svg')
-          p.mb-0 Desconfiar de aplicaciones gratuitas, antes de descargar e instalar alguna aplicación de este tipo se debe verificar su origen e idoneidad, pues se puede incurrir en el uso de software falso que simula realizar acciones de protección y mejora del rendimiento del equipo, pero en realidad lo que hace es infectar o afectar los equipos con virus, malware y adware.
+          p.mb-0 Desconfiar de aplicaciones gratuitas, antes de descargar e instalar alguna aplicación de este tipo se debe verificar su origen e idoneidad, pues se puede incurrir en el uso de <em>software</em> falso que simula realizar acciones de protección y mejora del rendimiento del equipo, pero en realidad lo que hace es infectar o afectar los equipos con virus, <em>malware</em> y <em>adware</em>.
 
 
       .col-lg-6
         .tarjeta.color-gradient-b.d-flex.px-4.py-5.mb-4
           .icono-tarjeta.me-4
             img(src='@/assets/curso/flecha-hacia-abajo.svg')
-          p.mb-0 No utilizar software falso o pirata, normalmente se tiende a utilizar software de manera ilegal sin licencia lo que obliga a utilizar los llamados cracks de activación, estos normalmente vienen infectados con algún tipo de virus lo que ocasionará que los equipos donde se instale el software de manera ilegal se infecten y queden expuestos a robo de información.
+          p.mb-0 No utilizar <em>software</em> falso o pirata, normalmente se tiende a utilizar <em>software</em> de manera ilegal sin licencia lo que obliga a utilizar los llamados <em>cracks</em> de activación, estos normalmente vienen infectados con algún tipo de virus lo que ocasionará que los equipos donde se instale el <em>software</em> de manera ilegal se infecten y queden expuestos a robo de información.
 
         .tarjeta.color-gradient-b.d-flex.px-4.py-5.mb-4
           .icono-tarjeta.me-4
             img(src='@/assets/curso/flecha-hacia-abajo.svg')
-          p.mb-0 No acceder a descarga de apps a través de links dispuestos en páginas donde se promocionan estas aplicaciones o software, normalmente este tipo de links llevará a un sitio predeterminado o previamente configurado para que se descarguen las apps con algún tipo de infección con malware o virus.
+          p.mb-0 No acceder a descarga de apps a través de <em>links</em> dispuestos en páginas donde se promocionan estas aplicaciones o <em>software</em>, normalmente este tipo de <em>links</em> llevará a un sitio predeterminado o previamente configurado para que se descarguen las apps con algún tipo de infección con <em>malware</em> o virus.
 
         .tarjeta.color-gradient-b.d-flex.px-4.py-5.mb-4
           .icono-tarjeta.me-4
             img(src='@/assets/curso/flecha-hacia-abajo.svg')
-          p.mb-0 Cuando se realicen descargas de aplicaciones tener siempre activo el antivirus, esto permitirá hacer una revisión de la descarga a fin de examinar e identificar posibles virus, malware y spyware.
+          p.mb-0 Cuando se realicen descargas de aplicaciones tener siempre activo el antivirus, esto permitirá hacer una revisión de la descarga a fin de examinar e identificar posibles virus, <em>malware</em> y <em>spyware</em>.
 
     Separador
 
@@ -385,34 +385,34 @@
         img(src='@/assets/curso/t1-25.svg')
       .col-sm-6.col-lg-3
         .tarjeta.color-secundario.px-4.py-3.mb-3
-          p.mb-0 Nombres y apellidos
+          p.mb-0 Nombres y apellidos.
         .tarjeta.color-secundario.px-4.py-3.mb-3
-          p.mb-0 Edad
+          p.mb-0 Edad.
         .tarjeta.color-secundario.px-4.py-3.mb-3
-          p.mb-0 Dirección o domicilio
+          p.mb-0 Dirección o domicilio.
         .tarjeta.color-secundario.px-4.py-3.mb-3
-          p.mb-0 Correo electrónico
+          p.mb-0 Correo electrónico.
         .tarjeta.color-secundario.px-4.py-3.mb-3
-          p.mb-0 Número de teléfono
+          p.mb-0 Número de teléfono.
         .tarjeta.color-secundario.px-4.py-3.mb-3
-          p.mb-0 Educación o perfil académico
+          p.mb-0 Educación o perfil académico.
         .tarjeta.color-secundario.px-4.py-3.mb-3.mb-lg-0
-          p.mb-0 Patrimonio
+          p.mb-0 Patrimonio.
       .d-none.d-lg-block.col-lg-4
         img(src='@/assets/curso/t1-25.svg')
       .col-sm-6.col-lg-3
         .tarjeta.color-secundario.px-4.py-3.mb-3
-          p.mb-0 Estado de salud
+          p.mb-0 Estado de salud.
         .tarjeta.color-secundario.px-4.py-3.mb-3
-          p.mb-0 Origen étnico
+          p.mb-0 Origen étnico.
         .tarjeta.color-secundario.px-4.py-3.mb-3
-          p.mb-0 Creencia religiosa
+          p.mb-0 Creencia religiosa.
         .tarjeta.color-secundario.px-4.py-3.mb-3
-          p.mb-0 Ideología política
+          p.mb-0 Ideología política.
         .tarjeta.color-secundario.px-4.py-3.mb-3
-          p.mb-0 Preferencias sexuales
+          p.mb-0 Preferencias sexuales.
         .tarjeta.color-secundario.px-4.py-3
-          p.mb-0 Documento de identidad
+          p.mb-0 Documento de identidad.
 
     p.mb-5 Es muy útil reconocer la importancia que tiene la protección de los datos personales, para evitar que estos datos sean utilizados con una finalidad distinta a la que inicialmente fueron suministrados, evitando que se vulneren los derechos y libertades de los usuarios en red; esto implica que siempre que se use un sitio físico o virtual, que requiera de un registro, es necesario poner especial atención en que se identifique claramente cuál será el propósito o finalidad que tienen para el manejo de los datos personales registrados.
 
@@ -424,7 +424,9 @@
           .bloque-texto-a__texto.px-4.py-5
             p Para este propósito, el Estado colombiano desarrollo la Ley Estatutaria 1581 de 2012 que constituye el marco general de la protección de los datos personales en Colombia, entre otras cosas, esta Ley manifiesta el derecho que tienen todas las personas a autorizar el uso de la información personal almacenada en bases de datos y archivos administradas por personas naturales o jurídicas, públicas o privadas, así como su posterior actualización, modificación y rectificación.
 
-    p Para recordar: toda empresa, sitio, página o portal web que requiera el registro de los datos personales, debe (sin ninguna excepción), solicitar la autorización a todas las personas para el tratamiento de sus datos personales.
+    p 
+      b Para recordar: 
+      | toda empresa, sitio, página o portal web que requiera el registro de los datos personales, debe (sin ninguna excepción), solicitar la autorización a todas las personas para el tratamiento de sus datos personales.
     p.mb-5
       b Esta autorización requiere:
 
@@ -432,7 +434,9 @@
       ul.lista-ul.mb-0
         li 
           i.fas.fa-check
-          | Tener un consentimiento informado, lo que significa que antes de solicitar datos personales, debe ser expresada e informada la solicitud de tratamiento de los datos personales.
+          p.mb-0 Tener un 
+            b consentimiento informado
+            | , lo que significa que antes de solicitar datos personales, debe ser expresada e informada la solicitud de tratamiento de los datos personales.
         li 
           i.fas.fa-check
           | Determinar de manera clara para que serán usados los datos que buscan ser obtenidos.
@@ -502,11 +506,8 @@
 
             div
               .tarjeta.color-secundario--claro.d-inline-block.p-4.mb-3
-                h5.mb-0 Servicios de domicilios de comidas, 
+                h5.mb-0 Servicios de domicilios de comidas, Bebidas, productos de la canasta familiar, entre otras… 
 
-            div
-              .tarjeta.color-secundario--claro.d-inline-block.p-4
-                h5.mb-0 Bebidas, productos de la canasta familiar, entre otras… 
           .col-6.col-sm-5
             img(src='@/assets/curso/t1-29.svg')
 
@@ -523,7 +524,7 @@
           div(titulo="Navegar e interactuar con las plataformas o sitios donde se hará la compra")
             p.mb-0 Se recomienda hacer una navegación detallada dentro de las plataformas para identificar sus contenidos, periodos de actualización, comentarios o algo que permita identificar si efectivamente es un sitio válido, confiable y seguro.
           div(titulo="Validación de la seguridad básica de la plataforma o sitio de comercio")
-            p.mb-0 Todo sitio serio debe contar con unas medidas de seguridad técnicas que son básicas y requeridas, por ejemplo se debe validar que cuente con un certificado digital que garantice que la información, datos o transacciones se hagan protegidas y cifradas, para esto se valida que la URL cuente con un protocolo seguro como lo es https://, si se cuenta con este requisito básico en la URL previo al nombre, debe mostrar un candado lo cual indica que el sitio es seguro. 
+            p.mb-0 Todo sitio serio debe contar con unas medidas de seguridad técnicas que son básicas y requeridas, por ejemplo se debe validar que cuente con un certificado digital que garantice que la información, datos o transacciones se hagan protegidas y cifradas, para esto se valida que la URL cuente con un protocolo seguro como lo es <b>https://</b>, si se cuenta con este requisito básico en la URL previo al nombre, debe mostrar un candado lo cual indica que el sitio es seguro. 
           div(titulo="Pagos seguros")
             p.mb-0 El momento de realizar el pago por el producto o servicio adquirido se debe realizar la validación de que se cuenta con una pasarela de pagos reconocida y certificada, entre otras, las siguientes son pasarelas de pago certificadas y aprobadas en el país: PayU, Mercado Pago, En Línea Pagos, Pagos Inteligentes, Opacó, Interpagos, Pago Digital, Recaudo Express, Mercado Libre, PSE, Paypal, entre otros.
           div(titulo="Política de privacidad y devoluciones")

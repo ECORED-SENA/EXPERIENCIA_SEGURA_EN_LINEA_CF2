@@ -19,21 +19,18 @@
       div
         h3 Ley 527 de 1999:
         p por medio de la cual se define y reglamenta el acceso y uso de los mensajes de datos, del comercio electrónico y de las firmas digitales, y se establecen las entidades de certificación y se dictan otras disposiciones.
-
       div
         h3 Ley 599 de 2000:
         p el Código Penal Colombiano no habla explícitamente de delitos informáticos, sin embargo, algunos artículos protegen los bienes jurídicos de vulneraciones cometidas a través de la red informática.
-
       div
         h3 Ley 603 de 2000:
-        p ley que ampara los derechos de autor, que protege la propiedad y producción intelectual. 
-          br
-          | Ley 679 de 2001: entre otras cosas establece las normas atinentes para contrarrestar el abuso sexual de menores, a través de medios electrónicos.
-
+        p ley que ampara los derechos de autor, que protege la propiedad y producción intelectual.
+      div
+        h3 Ley 679 de 2001: 
+        | entre otras cosas establece las normas atinentes para contrarrestar el abuso sexual de menores, a través de medios electrónicos.
       div
         h3 Ley 1266 de 2008:
         p ley de habeas data regula el manejo de la información contenida en bases de datos personales, en especial la financiera, crediticia, comercial, de servicios y la proveniente de terceros.
-
       div
         h3 Ley 1273 de 2009:
         p establece nuevos tipos penales relacionados con delitos informáticos y la protección de la información y de los datos.
@@ -46,7 +43,8 @@
     p.mb-5 Para hablar de la tipología y tipos de sanciones que actualmente están vigentes en Colombia, se debe tomar como referente la Ley 1273 de 2009, la cual está compuesta por dos capítulos. A continuación, se desglosan cada uno de ellos.
 
     h3 Capítulo 1
-    p De los atentados contra la confidencialidad, la integridad y la disponibilidad de los datos y de los sistemas informáticos.
+    p 
+      b De los atentados contra la confidencialidad, la integridad y la disponibilidad de los datos y de los sistemas informáticos.
 
     AcordionA.mb-5(tipo="a" clase-tarjeta="tarjeta color-acento-contenido")
       div(titulo="Artículo 269A - Acceso abusivo a un sistema informático")
@@ -70,9 +68,6 @@
         
 
         ul.lista-ul.mb-0.ps-4
-          li 
-            i.fas.fa-check
-            | Blogs.
           li 
             i.fas.fa-check
             | Sobre redes o sistemas informáticos o de comunicaciones estatales u oficiales o del sector financiero, nacionales o extranjeros.
@@ -99,7 +94,8 @@
             | Si quien incurre en estas conductas es el responsable de la administración, manejo o control de dicha información, además se le impondrá hasta por tres años, la pena de inhabilitación para el ejercicio de profesión relacionada con sistemas de información procesada con equipos computacionales.
 
     h3 Capítulo 2
-    p De los atentados informáticos y otras infracciones
+    p 
+      b De los atentados informáticos y otras infracciones
 
     AcordionA.mb-5(tipo="a" clase-tarjeta="tarjeta color-acento-contenido")
       div(titulo="Artículo 269I - Hurto por medios informáticos y semejantes")
@@ -174,9 +170,17 @@
               img(src='@/assets/curso/t3-05.svg')
             .col-lg-9
               p Según la Ley 1273 del 2009 los artículos que hacen parte del presente caso son:
-              h5.mb-0 Artículo 269A.
-              h5.mb-0 Artículo 269F.
-              h5.mb-0 Artículo 269H.
+
+              ul.lista-ul.mb-0
+                li 
+                  i.lista-ul__vineta
+                  h4.mb-0(style="color: #004080") Artículo 269A.
+                li 
+                  i.lista-ul__vineta
+                  h4.mb-0(style="color: #004080") Artículo 269F.
+                li 
+                  i.lista-ul__vineta
+                  h4.mb-0(style="color: #004080") Artículo 269H.
 
       .s-contenedor
         .tarjeta.color-acento-botones.p-4.p-lg-5
@@ -230,15 +234,22 @@
           p El 
             b artículo 269H
             |, habla de las agravaciones que tienen cada una de sus acciones tanto de PEDRO como de ULISES, las cuales son:
-          p
-            b Tercera: 
-            | aprovechando la confianza depositada por el poseedor de la información o por quien tuviere un vínculo contractual con este.
-          p
-            b Cuarta: 
-            | revelando o dando a conocer el contenido de la información en perjuicio de otro.
-          p.mb-0
-            b Octava: 
-            | si quien incurre en estas conductas es el responsable de la administración, manejo o control de dicha información, además se le impondrá hasta tres años, la pena de inhabilitación para el ejercicio de profesión relacionada con sistemas de información procesada con equipos computacionales.
+          ul.lista-ul
+            li 
+              i.fas.fa-check
+              p.mb-0
+                b Tercera: 
+                | aprovechando la confianza depositada por el poseedor de la información o por quien tuviere un vínculo contractual con este.
+            li 
+              i.fas.fa-check
+              p.mb-0
+                b Cuarta: 
+                | revelando o dando a conocer el contenido de la información en perjuicio de otro.
+            li 
+              i.fas.fa-check
+              p.mb-0
+                b Octava: 
+                | si quien incurre en estas conductas es el responsable de la administración, manejo o control de dicha información, además se le impondrá hasta tres años, la pena de inhabilitación para el ejercicio de profesión relacionada con sistemas de información procesada con equipos computacionales.
 
       .s-contenedor
         .tarjeta.color-acento-botones.p-4.p-lg-5
