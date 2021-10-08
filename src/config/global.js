@@ -168,7 +168,7 @@ export default {
     {
       termino: 'Antivirus',
       significado:
-        'tipo <em>software</em> diseñado específicamente para ayudar a detectar, prevenir y eliminar virus informáticos y <em>software</em> malicioso o <em>malware</em>.',
+        'tipo de <em>software</em> diseñado específicamente para ayudar a detectar, prevenir y eliminar virus informáticos y <em>software</em> malicioso o <em>malware</em>.',
     },
     {
       termino: 'Contraseña',
@@ -334,6 +334,16 @@ export default {
       },
     ],
     gestoresRepositorio: [
+      {
+        nombre: 'Álvaro Andrés Angarita Ramirez',
+        cargo: 'Validación y vinculación en plataforma LMS',
+        centro: 'Centro de Comercio y Servicios Regional Tolima',
+      },
+      {
+        nombre: 'Daniel Felipe Varón Molina',
+        cargo: 'Validación y vinculación en plataforma LMS',
+        centro: 'Centro de Comercio y Servicios Regional Tolima',
+      },
       {
         nombre: 'Milady Tatiana Villamil Castellanos',
         cargo: 'Validación y vinculación en plataforma LMS',

@@ -8,7 +8,7 @@
         span 1  
       h1 Herramientas y estrategias de protección
 
-    p.mb-5 Se denomina herramientas de protección a todas las herramientas que nacen para cubrir las necesidades de seguridad, digital en este caso; son aquellas que presentan un alivio en el uso de los contenidos digitales y se caracterizan por ser de carácter pago o gratuito, según se establezca por parte de cada fabricante.
+    p.mb-5 Se denomina herramientas de protección a todas las herramientas que nacen para cubrir las necesidades de seguridad digital en este caso; son aquellas que presentan un alivio en el uso de los contenidos digitales y se caracterizan por ser de carácter pago o gratuito, según se establezca por parte de cada fabricante.
 
     #t1-1.titulo-segundo
       h2 1.1 Clasificación y características de las herramientas de protección
@@ -229,7 +229,7 @@
         p Una mala práctica en este sentido puede comprometer la privacidad, lo que deriva en vulnerabilidad por parte de un tercero que puede editar, borrar o manipular la información personal de cada persona. Para el caso de los correos electrónicos, datos bancarios y redes sociales, el uso de estos elementos conocidos como <em>password</em> es fundamental y se debe tener cuidado extremo a la hora de su generación y uso. 
         
         p.mb-0
-          b continuación, se amplía en el siguiente video, el concepto de contraseña.
+          b A continuación, se amplía en el siguiente video, el concepto de contraseña.
 
       .col-4
         img(src='@/assets/curso/t1-22.svg')
@@ -328,7 +328,7 @@
     #t1-4.titulo-segundo
       h2 1.4 Fuentes de descarga segura de software
 
-    p.mb-5 En la cotidianidad, se utiliza internet y otras herramientas tecnológicas a diario y es común que encontrar algunas soluciones de aplicaciones y/o servicios que pueden potencializar el uso de las TIC (Tecnologías de la Información y Comunicación), eso hace que se haga obligatorio prestar especial atención a los sitios desde los cuales se hacen las descargas de cualquier tipo de aplicación. Lo primero, al momento de tratar de descargar una aplicación o archivo, es reconocer si la descarga se hace desde un sitio seguro y para ello se presentan las siguientes recomendaciones las que cada usuario de las redes, puede aplicar a conveniencia.
+    p.mb-5 En la cotidianidad, se utiliza internet y otras herramientas tecnológicas a diario y es común encontrar algunas soluciones de aplicaciones y/o servicios que pueden potencializar el uso de las TIC (Tecnologías de la Información y Comunicación), eso hace que se haga obligatorio prestar especial atención a los sitios desde los cuales se hacen las descargas de cualquier tipo de aplicación. Lo primero, al momento de tratar de descargar una aplicación o archivo, es reconocer si la descarga se hace desde un sitio seguro y para ello se presentan las siguientes recomendaciones las que cada usuario de las redes, puede aplicar a conveniencia.
 
     .row
       .col-lg-6
@@ -340,7 +340,7 @@
         .tarjeta.color-gradient-b.d-flex.px-4.py-5.mb-4
           .icono-tarjeta.me-4
             img(src='@/assets/curso/flecha-hacia-abajo.svg')
-          p.mb-0 Si la descarga se va a hacer a partir de un <em>link</em> recomendado por alguna persona o página, se deben de validar los comentarios de otros usuarios que hallan hecho la descarga e identificar las credenciales y reputación de quien publica algún comentario, ya que puede haber comentarios falsos dispuestos solo para generar una falsa confianza en la persona que va a descargar.
+          p.mb-0 Si la descarga se va a hacer a partir de un <em>link</em> recomendado por alguna persona o página, se deben de validar los comentarios de otros usuarios que hayan hecho la descarga e identificar las credenciales y reputación de quien publica algún comentario, ya que puede haber comentarios falsos dispuestos solo para generar una falsa confianza en la persona que va a descargar.
 
         .tarjeta.color-gradient-b.d-flex.px-4.py-5.mb-4
           .icono-tarjeta.me-4
@@ -374,7 +374,7 @@
     #t1-5.titulo-segundo
       h2 1.5 Datos personales y datos de terceros 
     
-    p Los datos personales son todos aquellos que relacionan o permiten identificar y caracterizar a una persona, permitiendo ser identificados o identificables.
+    p Los datos personales son toda aquella información que describe, identifica y caracteriza a una persona.
     
     p.mb-5
       b Algunos ejemplos de los datos personales son:
@@ -462,7 +462,7 @@
           | Levantamiento de las bases de datos.
         li.mb-0
           i.fas.fa-check
-          | Registro nacional de las bases de datos ante la súper intendencia de industria y comercio.
+          | Registro nacional de las bases de datos ante la Superintendencia de Industria y Comercio.
 
     Separador
 
@@ -506,7 +506,7 @@
 
             div
               .tarjeta.color-secundario--claro.d-inline-block.p-4.mb-3
-                h5.mb-0 Servicios de domicilios de comidas, Bebidas, productos de la canasta familiar, entre otras… 
+                h5.mb-0 Servicios de domicilios de comidas, bebidas, productos de la canasta familiar, entre otras… 
 
           .col-6.col-sm-5
             img(src='@/assets/curso/t1-29.svg')
@@ -532,7 +532,7 @@
           div(titulo="Acceso a canales de soporte y servicio al cliente")
             p.mb-0 Una página o sitio confiable donde se pueden realizar compras online debe contar con las estrategias y canales de atención como redes sociales, página web, teléfonos, direcciones, esto permitirá determinar si el sitio es seguro, operativo y confiable.
           div(titulo="Términos y condiciones")
-            p.mb-0 El sitio el sitio o plataforma donde se realicen las compras debe contar con espacio claramente determinado con los términos y condiciones donde se especifique claramente las condiciones para los pagos, políticas de devoluciones y reembolsos, envíos, costos de transporte, tiempos de entrega, entre otros, de esta manera se evitará tener inconvenientes y experiencias no favorables con la compra.
+            p.mb-0 El sitio o plataforma donde se realicen las compras debe contar con espacio claramente determinado con los términos y condiciones donde se especifique claramente las condiciones para los pagos, políticas de devoluciones y reembolsos, envíos, costos de transporte, tiempos de entrega, entre otros, de esta manera se evitará tener inconvenientes y experiencias no favorables con la compra.
 
 </template>
 
